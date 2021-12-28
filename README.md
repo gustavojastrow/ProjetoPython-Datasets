@@ -2,7 +2,7 @@
 
 Esse projeto foi proposto e desenvolvido no curso de Laboratório de Programação - UVV
 
-Manipulação de dados em:
+Manipulação de dados com:
  * Indexação booleana
  * Indexação sofisticada
  * Vetorização
